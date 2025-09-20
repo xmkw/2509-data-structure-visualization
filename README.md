@@ -1,5 +1,8 @@
 # Data Structure Visualization
 
+# Links
+* [University of San Francisco - Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
 # Tree
 ![](tree.png)
 ```py
